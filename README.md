@@ -9,10 +9,10 @@
 
 ### Stats
 
-[![Ra1nBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ra1nBee&theme=vue)]()
+[![JeongHun.Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun.seo&theme=vue)]()
 
 ### Top Langs!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra1nBee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun.seo)](https://github.com/anuraghazra/github-readme-stats)
 
 
